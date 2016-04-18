@@ -1,0 +1,21 @@
+{
+  "name": "ds1004_lab9",
+  "homepage": "https://github.com/rajusamantapudi/ds1004_lab9",
+  "description": "lab9",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "rks395"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
